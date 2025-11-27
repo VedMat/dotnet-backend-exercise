@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "MacBook Air",
+    "price": 1299.99,
+    "categoryId": 1
+  },
+  {
+    "id": 2,
+    "name": "Dell XPS 13",
+    "price": 1199.99,
+    "categoryId": 1
+  },
+  {
+    "id": 3,
+    "name": "Wireless Mouse",
+    "price": 29.99,
+    "categoryId": 2
+  },
+  {
+    "id": 4,
+    "name": "USB-C Adapter",
+    "price": 19.99,
+    "categoryId": 2
+  },
+  {
+    "id": 5,
+    "name": "Monitor 27\" 4K",
+    "price": 399.99,
+    "categoryId": 3
+  }
+]
+
